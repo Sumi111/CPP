@@ -11,6 +11,6 @@ Memory allocation, pointers to members, references, switch statement, access spe
 
 Polymorphism, operator overloading and orthodox canonical class form, fixed-point numbers.
 
-##CPP_03
+## CPP_03
 
 Inheritance.
